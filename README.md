@@ -12,6 +12,8 @@ butler. Ask away, and your personal assistant
 will try his best to guide you in the right 
 direction!
 
+  ![image](https://user-images.githubusercontent.com/71232852/227787157-6c23c134-5c01-4862-9c3d-e3abfe8cbbbd.png)
+
 -----------------------------------------------
 Process:
 -----------------------------------------------
